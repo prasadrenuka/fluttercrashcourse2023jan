@@ -5,12 +5,12 @@ mixin MockLocation implements Location {
   static Location FetchAny() {
     return Location(
         name: 'isha yoga center coimbatore',
-        url: '',
+        url: 'https://picsum.photos/250?image=9',
         facts: <LocationFact>[
           LocationFact(
               title: 'Summary',
               text:
-                  'Isha Yoga Center is a scenic spiritual destinations set at the foothills of the Majestic Velliangiri mountains in Coimbatore, the uniqueness of the center is one can explore all the four Major Paths of Yoga. Founded by Sadhguru, this destination is a varied mix of various offering for seekers and tourists '),
+                  ' Yoga Center is a scenic spiritual destinations set at the foothills of the Majestic Velliangiri mountains in Coimbatore, the uniqueness of the center is one can explore all the four Major Paths of Yoga. Founded by Sadhguru, this destination is a varied mix of various offering for seekers and tourists '),
           LocationFact(
               title: 'How to Get there',
               text:
