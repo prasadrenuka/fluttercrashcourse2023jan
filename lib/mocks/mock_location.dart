@@ -5,7 +5,7 @@ mixin MockLocation implements Location {
   static Location FetchAny() {
     return Location(
         name: 'isha yoga center coimbatore',
-        url: '',
+        url: 'https://picsum.photos/250?image=9',
         facts: <LocationFact>[
           LocationFact(
               title: 'Summary',
