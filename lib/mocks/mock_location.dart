@@ -10,7 +10,7 @@ mixin MockLocation implements Location {
           LocationFact(
               title: 'Summary',
               text:
-                  'Isha Yoga Center is a scenic spiritual destinations set at the foothills of the Majestic Velliangiri mountains in Coimbatore, the uniqueness of the center is one can explore all the four Major Paths of Yoga. Founded by Sadhguru, this destination is a varied mix of various offering for seekers and tourists '),
+                  ' Yoga Center is a scenic spiritual destinations set at the foothills of the Majestic Velliangiri mountains in Coimbatore, the uniqueness of the center is one can explore all the four Major Paths of Yoga. Founded by Sadhguru, this destination is a varied mix of various offering for seekers and tourists '),
           LocationFact(
               title: 'How to Get there',
               text:
